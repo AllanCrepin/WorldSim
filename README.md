@@ -26,8 +26,8 @@ The map generator uses multiple layers of Simplex noise with varying frequencies
 
 ### Prerequisites
 
-- .NET 6.0 or higher
-- MonoGame 3.8 or higher
+- .NET 8.0
+- MonoGame
 
 ### Installation
 
